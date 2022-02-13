@@ -13,6 +13,8 @@ I'm a 3rd year uni student studying computer science.
 - Python 
 - Java
 - C, C ++
+- Kotlin, Swift
+- Android Studio, Xcode
 - HTML5 & CSS3
 - VS Code
 - Git
