@@ -2,10 +2,9 @@
 
 ### About me: ### 
 
-I'm a 3rd year uni student studying computer science. 
+I'm a first class BSc (Hons) computer science graduate. 
 
 ### Currently working on: ### 
-- Uni assignments
 - Neural networks, machine learning, and deep learning (CNN)
 - Silly stuff with Boids
 
